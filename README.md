@@ -9,3 +9,7 @@ Okay, I'm going to try my first code trick. I'm going to make the word bold actu
 Ready?
 
 _*bold*_
+
+Okay, the first one didn't work, let's try this way..
+
+*bold*
